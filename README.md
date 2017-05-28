@@ -14,4 +14,4 @@ To meet specifications in the project, take a look at the requirements in the [p
 
 * [Code Ipython Notebook](https://github.com/igorbb/CarND-LaneLines-P1/blob/master/P1.ipynb)
 * [Code HTML](https://github.com/igorbb/CarND-LaneLines-P1/blob/master/P1.html)
-* [writeup]((https://github.com/igorbb/CarND-LaneLines-P1/blob/master/writeup.md))
+* [writeup](https://github.com/igorbb/CarND-LaneLines-P1/blob/master/writeup.md)
